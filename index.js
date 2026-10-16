@@ -34,7 +34,6 @@ const { today: maximaHoy, tomorrow: maximaManana } = HIGH_TEMPERATURES;
 console.log(maximaHoy);     // 35
 console.log(maximaManana);  // 32
 
-/* ===================== Spread / Rest ===================== */
 
 // 5.- Suma cualquier cantidad de números
 function sumEveryOther(...numeros) {
